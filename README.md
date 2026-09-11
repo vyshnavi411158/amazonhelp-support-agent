@@ -27,7 +27,8 @@ AmazonHelp behavior.
 
 ## 2. Architecture
 
-![AmazonHelp AI Support Agent Architecture]![alt text](image.png)
+<img width="902" height="601" alt="image" src="https://github.com/user-attachments/assets/4cea5e59-962c-4912-a163-0cf0add6ea1d" />
+
 
 The pipeline has four main stages:
 
