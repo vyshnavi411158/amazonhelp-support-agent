@@ -548,5 +548,10 @@ external LLM API.
 
 <img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/9e304dd0-143e-4389-9064-853e75090285" />
 
+<img width="947" height="977" alt="WhatsApp Image 2026-09-12 at 1 25 06 AM" src="https://github.com/user-attachments/assets/f6070b05-db8c-4801-a81c-20f6142e3b8e" />
+<img width="948" height="953" alt="WhatsApp Image 2026-09-12 at 1 25 25 AM" src="https://github.com/user-attachments/assets/da6061b5-fb49-464d-a20d-d06d2f4c1996" />
+
+<img width="948" height="966" alt="WhatsApp Image 2026-09-12 at 1 27 00 AM" src="https://github.com/user-attachments/assets/734230ca-a831-4f1d-bfba-4d3e3ab4de58" />
+<img width="956" height="967" alt="WhatsApp Image 2026-09-12 at 1 27 28 AM" src="https://github.com/user-attachments/assets/9c749de5-a792-4ff2-88d6-5b80bcc6c020" />
 
 
