@@ -538,3 +538,15 @@ streamlit run app.py
 The core classifier, retrieval system, escalation policy, evaluation
 pipeline, and demonstration UI can run locally without requiring an
 external LLM API.
+---
+## 19.Images
+<img width="1911" height="972" alt="image" src="https://github.com/user-attachments/assets/851f8f98-8c47-4a7a-a674-b9c02165446f" />
+<img width="1908" height="967" alt="image" src="https://github.com/user-attachments/assets/a341103c-e27f-480d-8dee-7fec2bb4c053" />
+
+<img width="1907" height="901" alt="image" src="https://github.com/user-attachments/assets/be18366f-44da-4d6d-84c2-6569594cc00a" />
+<img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/0af0ff5b-f97d-4137-ab01-1c84a607ba74" />
+
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/9e304dd0-143e-4389-9064-853e75090285" />
+
+
+
